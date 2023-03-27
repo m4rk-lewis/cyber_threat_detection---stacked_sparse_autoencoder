@@ -13,7 +13,6 @@ Cyber threat detection using feature engineering, feature selection and optimise
 9) Stacked Sparse Autoencoder Optimisation using GridSearchCV<br>
 10) PCA for Feature Generation<br>
 
-Fig 2. PCA - Explained Variance:
 <p align="center">
   <img src="https://github.com/m4rk-lewis/cyber_threat_detection_using_stacked_sparse_autoencoder_LR_and_SVM/blob/main/pics/PCA.jpg" width="500" title="PCS">
 </p>
@@ -31,12 +30,12 @@ Fig 2. PCA - Explained Variance:
 21) Feature Selection by Wrapper Method with RFE using LinearSVC / LogisticRegression / LinearDiscriminantAnalysis / RidgeClassifier<br>
 22) Compare Classifier Models (unoptimised)<br>
 
-Fig 3. classification model selection:
+
 <p align="center">
   <img src="https://github.com/m4rk-lewis/cyber_threat_detection_using_stacked_sparse_autoencoder_LR_and_SVM/blob/main/pics/classification model selection.jpg" width="500" title="PCS">
 </p>
 
-Fig 4. classification model selection - runtime:
+
 <p align="center">
   <img src="https://github.com/m4rk-lewis/cyber_threat_detection_using_stacked_sparse_autoencoder_LR_and_SVM/blob/main/pics/classification model selection - runtime.jpg" width="500" title="PCS">
 </p>
