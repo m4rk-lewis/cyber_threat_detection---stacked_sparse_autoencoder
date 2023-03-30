@@ -43,15 +43,15 @@
 </p>
 
 
-23) LinearSVM Classifier BayesSearchCV Hyperparameter Optimisation<br>
-24) Logistic Regression Classifier BayesSearchCV Hyperparameter Optimisation<br>
-25) Logistic Regression Classifier (with Bayesian Optimisation)<br>
+23) LinearSVM Classifier with BayesSearchCV Hyperparameter Optimisation<br>
+24) Logistic Regression Classifier with BayesSearchCV Hyperparameter Optimisation<br>
+25) Logistic Regression Classifier (Optimised)<br>
 
 <p align="center">
   <img src="https://github.com/m4rk-lewis/cyber_threat_detection_using_stacked_sparse_autoencoder_LR_and_SVM/blob/main/pics/Logistic Regression Classifier.jpg" width="500" title="PCS">
 </p>
 
-26) LinnearSVM Classifier (with Bayesian Optimisation)<br>
+26) LinnearSVM Classifier (Optimised)<br>
 
 <p align="center">
   <img src="https://github.com/m4rk-lewis/cyber_threat_detection_using_stacked_sparse_autoencoder_LR_and_SVM/blob/main/pics/LinnearSVM Classifier.jpg" width="500" title="PCS">
