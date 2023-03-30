@@ -4,6 +4,9 @@
 1) Download and Install libraries<br>
 2) Mount Google Drive<br>
 3) Load Data From CSV and Rename Class Variable<br>
+<p align="center">
+  <img src="https://github.com/m4rk-lewis/cyber_threat_detection_using_stacked_sparse_autoencoder_LR_and_SVM/blob/main/pics/awid.jpg" width="500" title="dataset">
+</p>
 4) Initial Data Observations<br>
 5) Pre-Processing Data<br>
 6) Shuffle the Pandas Dataframe<br>
