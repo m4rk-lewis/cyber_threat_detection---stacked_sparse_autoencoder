@@ -1,4 +1,4 @@
-# AWID Cyber threat detection using feature engineering (SSAE, PCA, UMAP, PHATE, SA, LLE, FA, LDA), RFE feature selection and optimised classification (Logistic Regression and Linear SVM)
+# AWID Cyber threat detection using feature engineering (SSAE, PCA, UMAP, PHATE, SA, LLE, FA, LDA), Recursive Feature Elimination, Logistic Regression and Linear SVM classification.
 
 
 1) Download and Install libraries<br>
